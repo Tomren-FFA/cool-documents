@@ -1,7 +1,8 @@
-check out:
+╭───────────────────────────╮
+│     check out/replay      │
+╰───────────────────────────╯
 
 knytt
-katamari damacy
 noby noby boy
 everyday shooter
 chrono trigger
@@ -10,7 +11,7 @@ rez
 gargoyle's quest
 catacombs of solaris
 umurangi generation
-                                https://seansleblanc.itch.io/
+*                               https://seansleblanc.itch.io/
 paratopic                       arbitrarymetric
 gorogoa                         jason roberts
 mini metro                      dinosaur polo club
@@ -23,22 +24,15 @@ star trek: 25th anniversary     interplay
 world of horror                 panstasz
 the longing                     studio seufz
 its winter                      sad3d
-
-
-replay:
-
 flywrench                       messhof games
 mountain 2.0                    david oreilly
 proteus                         ed key & david kanaga
 
 
-looking forward to:
 
-bernband                        tom boogaart
-small talk                      pale room
-
-
-enjoyed:
+╭───────────────────────────╮
+│          enjoyed          │
+╰───────────────────────────╯
 
 pikuniku                        rémi forcadell, arnaud de bock, calum bowen & alan zucconi
 mundo lixo                      terri vellmann
@@ -67,7 +61,10 @@ metamorphabet                   vectorpark
 fröschtage                      robin vehrs
 
 
-favourites:
+
+╭───────────────────────────╮
+│        favourites         │
+╰───────────────────────────╯
 
 thirty flights of loving        blendo games
 little party                    turnfollow
@@ -104,3 +101,4 @@ the haunted island, a frog detective game    grace bruxner
 frolicing                       bad-lover-man
 super hexagon                   terry cavanagh
 say no! more                    studio fizbin
+katamari damacy                 namco
